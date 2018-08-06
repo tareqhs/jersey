@@ -35,6 +35,7 @@
 
     <modules>
         <module>cdi2-se</module>
+        <module>guice</module>
         <module>hk2</module>
     </modules>
 </project>
